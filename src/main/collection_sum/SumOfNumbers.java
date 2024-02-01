@@ -1,3 +1,7 @@
+package collection_sum;
+
+import collection_sum.Filter;
+
 public class SumOfNumbers implements Filter {
     @Override
     public Object apply(Object o) {
